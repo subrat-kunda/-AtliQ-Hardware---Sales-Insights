@@ -214,4 +214,4 @@ Tools, Software and Libraries :
 3.DAX Language
 
 References :
-https://codebasics.io/panel/webinars/purchases
+https://codebasics.io/courses/data-analysis-projects/lecture/652
